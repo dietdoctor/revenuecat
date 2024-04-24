@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/mhemmings/revenuecat"
+	"github.com/dietdoctor/revenuecat"
 )
 
 func main() {
